@@ -14,4 +14,4 @@ RUN adduser -D myuser
 
 USER myuser
 
-CMD ["python", "time.py"]
+CMD ["python", "time_web.py"]

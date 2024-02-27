@@ -14,3 +14,9 @@ env/
 
 # Project specific files or directories
 S24-DevOps.iml
+
+# Terraform cache files
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
